@@ -1,15 +1,12 @@
 ## Hi there 👋
 
 
-**shravanishep/shravanishep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
- 🔭 I’m currently 
-Building CodeInsight, a hybrid static-analysis and AI-assisted system for code explanation, bug detection, and complexity analysis, while strengthening DSA in Java.
-🌱 I’m currently learning AI/ML projects, developer tools, or problem-solving–oriented systems that focus on explainability and real-world use cases.
- 👯 I’m looking to collaborate on Improving system design, static code analysis techniques, and interview-oriented project refinement.
- 🤔 I’m looking for help with Data Structures & Algorithms, Operating Systems, Artificial Intelligence, and practical AI system design.
- 💬 Ask me about DSA in Java, AI/ML fundamentals, NLP projects, or how to build explainable AI systems.
+ 🔭 I’m currently Building CodeInsight, a hybrid static-analysis and AI-assisted system for code explanation, bug detection, and complexity analysis, while strengthening DSA in Java.</br>
+🌱 I’m currently learning AI/ML projects, developer tools, or problem-solving–oriented systems that focus on explainability and real-world use cases.</br>
+ 👯 I’m looking to collaborate on Improving system design, static code analysis techniques, and interview-oriented project refinement.</br>
+ 🤔 I’m looking for help with Data Structures & Algorithms, Operating Systems, Artificial Intelligence, and practical AI system design.</br>
+ 💬 Ask me about DSA in Java, AI/ML fundamentals, NLP projects, or how to build explainable AI systems.</br>
 
  📫 How to reach me: shravanishep@gmail.com
  😄 Pronouns: she/her
