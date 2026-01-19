@@ -1,23 +1,21 @@
 ## Hi there 👋
 
-<!--
+
 **shravanishep/shravanishep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔭 I’m currently 
+Building CodeInsight, a hybrid static-analysis and AI-assisted system for code explanation, bug detection, and complexity analysis, while strengthening DSA in Java.
+🌱 I’m currently learning AI/ML projects, developer tools, or problem-solving–oriented systems that focus on explainability and real-world use cases.
+ 👯 I’m looking to collaborate on Improving system design, static code analysis techniques, and interview-oriented project refinement.
+ 🤔 I’m looking for help with Data Structures & Algorithms, Operating Systems, Artificial Intelligence, and practical AI system design.
+ 💬 Ask me about DSA in Java, AI/ML fundamentals, NLP projects, or how to build explainable AI systems.
+
+ 📫 How to reach me: shravanishep@gmail.com
+ 😄 Pronouns: she/her
+⚡ Fun fact: I enjoy breaking down complex logic into simple explanations—and I bake as a creative reset outside tech.
+
 # 💫 About Me:
-Building CodeInsight, a hybrid static-analysis and AI-assisted system for code explanation, bug detection, and complexity analysis, while strengthening DSA in Java.<br>AI/ML projects, developer tools, or problem-solving–oriented systems that focus on explainability and real-world use cases.<br>Improving system design, static code analysis techniques, and interview-oriented project refinement.<br>Data Structures & Algorithms, Operating Systems, Artificial Intelligence, and practical AI system design.<br>DSA in Java, AI/ML fundamentals, NLP projects, or how to build explainable AI systems.<br>I enjoy breaking down complex logic into simple explanations—and I bake as a creative reset outside tech.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shravani_shep31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravani-shep) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shravanishep) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shravanishep@gmail.com) 
 
