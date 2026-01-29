@@ -1,8 +1,8 @@
-👋 Hi, I’m Shravani. I’m building CodeInsight, a hybrid static-analysis and AI-assisted system for code explanation, bug detection, and complexity analysis, while strengthening DSA in Java.
-🌱 Currently exploring AI/ML projects, developer tools, and explainable, real-world systems.
-👯 Open to collaboration on system design, static code analysis, and interview-oriented project refinement.
-💬 Ask me about DSA (Java), AI/ML fundamentals, NLP projects, or explainable AI systems.
-📫 Reach me at: shravanishep@gmail.com
+👋 Hi, I’m Shravani. I’m building CodeInsight, a hybrid static-analysis and AI-assisted system for code explanation, bug detection, and complexity analysis, while strengthening DSA in Java.<br/>
+🌱 Currently exploring AI/ML projects, developer tools, and explainable, real-world systems.<br/>
+👯 Open to collaboration on system design, static code analysis, and interview-oriented project refinement.<br/>
+💬 Ask me about DSA (Java), AI/ML fundamentals, NLP projects, or explainable AI systems.<br/>
+📫 Reach me at: shravanishep@gmail.com<br/>
 
 # 💫 About Me:
 ## 🌐 Socials:
